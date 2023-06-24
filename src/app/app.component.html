@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <h1>{{ title }}</h1>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Venues</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Artists</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+<div class="container-fluid py-3"  *ngIf="jsonData">
+  <div class="row my-3">
+    <div class="card" style="width: 18rem;" *ngFor="let key of keys">
+      <img class="card-img-top" src="..." alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{ jsonData.gigs[key].title }}</h5>
+        <p class="card-text">{{ convertDate(jsonData.gigs[key].date) }}</p>
+        <p class="card-text"><b>{{ jsonData.venues[ jsonData.gigs[key].venue ].name }}</b></p>
+        <p class="card-text">{{ jsonData.venues[ jsonData.gigs[key].venue ].address }}</p>
+        <a href="#" class="btn btn-primary">Join chat</a>
+      </div>
+    </div>
+  </div>
+</div>
