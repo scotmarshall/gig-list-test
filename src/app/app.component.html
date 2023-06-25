@@ -28,7 +28,7 @@
 <div class="container-fluid py-3"  *ngIf="jsonData">
   <div class="row my-3">
     <div class="card" style="width: 18rem;" *ngFor="let key of keys">
-      <img class="card-img-top" src="..." alt="Card image cap">
+      <img class="card-img-top" [src]="jsonData.gigs[key].imgUrl" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">{{ jsonData.gigs[key].title }}</h5>
         <p class="card-text">{{ convertDate(jsonData.gigs[key].date) }}</p>
