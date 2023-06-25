@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Gig List -- Test';
+  title = 'Gig List :: Test';
   jsonData: any;
   keys: any;
 
@@ -23,7 +23,7 @@ export class AppComponent {
   }
 
   fetchJsonData() {
-    this.http.get('https://scotmarshall.github.io/Data/gigs.json').subscribe((data: any) => {
+    this.http.get('assets/data/GigData.json').subscribe((data: any) => {
       this.jsonData = data;
       this.keys = Object.keys(this.jsonData.gigs);
     });

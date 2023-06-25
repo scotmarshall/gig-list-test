@@ -1,0 +1,177 @@
+{
+    "gigs" : [
+      {
+        "title": "FLYING DUTCHMEN LIVE MUSIC",
+        "artist": [
+          "FLYING DUTCHMEN", "SCARNON", "Split the Sun"
+        ],
+        "venue": "mammachens",
+        "date": "2023-06-24T19:30:00"
+      },
+      {
+        "title": "RJ Andrew",
+        "artist": [
+          "RJ Andrew"
+        ],
+        "venue": "unionhotelbrunswick",
+        "date": "2023-06-25T17:00:00"
+      }
+    ],
+    "venues": {
+      "170.russell": {
+        "name": "170 Russell",
+        "address": "170 Russell St, Melbourne VIC 3000",
+        "summary": "170 Russell is one of our longest standing venues, having seen a number of great international performers grace its stage over the years. There's some cool acts on their way in 2022, Cory Henry, Broods, and many more."
+      },
+      "baropenfitzroy": {
+        "name": "Bar Open",
+        "address": "317 Brunswick Street, Fitzroy VIC 3065",
+        "summary": "Bar Open is a Fitzroy legend, a mainstay of Melbourne's live music scene for 24 years that supports a huge array of genres. With art and mural splashed walls and a general decor and clientele that screams `You're in Fitzroy, welcome home`, it's no wonder that Bar Open is one of those venues that people associate with unique Melbourne culture. It has a delightful beer garden, a cozy fireplace, an upper level and an improv night, but you really need to head here to experience the dazzling array of live music for yourself. The treasured venue hosts bands six nights per-week over two stages, and is widely renowned for everything from weekly experimental/improvised gigs (the home of Make It Up Club) to jazz/groove-based genres as well as heavier guitar-based rock (doom, punk, grind core)."
+      },
+      "birdsbasement": {
+        "name": "Birds Basement",
+        "address": "11 Singers Ln, Melbourne VIC 3000",
+        "summary": "You'd be hard pressed to find a cooler venue than the Bird's Basement. It's like a New York Jazz club that has been picked up and plonked in the middle of Melbourne. Over the years there has been a heap of great acts that have graced the Birds Basement stage. You can catch some great performers at Birds Basement over coming months, acts like Jack Jones, Renee Geyer, Thando and Ross Wilson."
+      },
+      "brunswickballroomaus": {
+        "name": "The Brunswick Ballroom",
+        "address": "314 Sydney Rd, Brunswick VIC 3056",
+        "summary": "One of the finest live music venues in Melbourne, The Brunswick Ballroom is a beautifully refurbished hall in the old Metropolis House building that now hosts some of Melbourne's favourite live acts. The upstairs ballroom, accessed via the dramatic staircase, features superb stained glass domes evoking the work of Australian artist Leonard French, before expanding out onto an open-air balcony that takes in the urban streetscape below and the sights of Melbourne's skyline. It also has the Brunswick Artist's Bar next door, which doubles as a lovely quaint cafe and bakery."
+      },
+      "cherrybarmelb": {
+        "name": "Cherry Bar",
+        "address": "68 Little Collins St, Melbourne VIC 3000",
+        "summary": "The Cherry Bar owners stunned many of us when they announced the opening of their new venue The Hotel Westwood where the old Reverence Hotel used to stand. Amidst that, their premier venue is still slinging live gigs, you've got Weened, The Poor, and Mountain Wizard Death Cult wach on their way to the Cherry Bar this year."
+      },
+      "cornerhotel": {
+        "name": "The Corner Hotel",
+        "address": "57 Swan St, Richmond VIC 3121",
+        "summary": "You can't have a list of venues without mentioning The Corner. We've all been stuck behind the iconic pole, and enjoyed some great music from bands local and international. The venue always pulls some of the best acts to grace Melbourne stages, national and international."
+      },
+      "hotelesplanadestkilda": {
+        "name": "Hotel Esplanade",
+        "address": "11 The Esplanade, St Kilda VIC 3182",
+        "summary": "It's the venue that's the epitome of Melbourne. Across from the beach, a great menu, tasty drinks, what else can you ask for? - Music. The Espy has heaps of it, with Death By Denim, and Mako Road being some of many groups on their way to The Espy stage."
+      },
+      "leadbeaterhotel": {
+        "name": "The Leadbeater Hotel",
+        "address": "1 Church St, Richmond VIC 3121",
+        "summary": "Richmond's emerging live music haunt The Leadbeater Hotel only opened late 2019 but they're certainly put their best foot forward during these tough times and put on a bunch of great gigs."
+	    },
+      "mammachens": {
+        "name": "Mamma Chen's",
+        "address": "42A Albert St, Footscray VIC 3011",
+        "summary": "Embracing artistic risk taking and championing equity and diversity; our focussed vision is access for all - providing warmth and physically safe spaces to share, engage and perform. We focus on our communities, our artists, listening to their needs to genuinely encourage growth. Diversity is paramount to our space, celebrating eclectic difference and multiplicity. We are a part of your journey, we are a fellow friend."
+      },
+      "maxwattsvenue": {
+        "name": "Max Watt's House of Music",
+        "address": "125 Swanston St, Melbourne VIC 3000",
+        "summary": "Max Watt's loves putting on shows that can appeal to all types of people - whether you like High School Musical, Haiku Hands or the sounds of Ibiza Nightclubs, Max Watts will have a show for you."
+      },
+      "memomusichall": {
+        "name": "Memo Music Hall",
+        "address": "88 Acland St, St Kilda VIC 3182",
+        "summary": "Not even COVID could stop St Kilda's beloved Memo Music Hall. The venue kept up appearances by throwing livestreamed gigs week after week. But now that things are back, you can catch some killer shows with their super bill of shows across the coming months. Expect to see everyone including greats The Chantoozies, Henry Wagons, Vanessa Amarossi, and many more."
+      },
+      "northcotesocialclub": {
+        "name": "Northcote Social Club",
+        "address": "301 High St, Northcote VIC 3070",
+        "summary": "There's no question that when you think of Melbourne live music venues, the Northcote Social Club is one of the first that pops into mind. It's a chilled, laid back space that garners a chill crowd who are there just for the music."
+      },
+      "openstudiobar": {
+        "name": "Open Studio",
+        "address": "204 High St, Northcote VIC 3070",
+        "summary": "Northcote's Open Studio is full of live music as it brings some of Melbourne's brightest music talents to its space. There's more where that came from with heaps of gigs booked over the coming months."
+      },
+      "palaistheatre": {
+        "name": "Palais Theatre",
+        "address": "Lower Esplanade, St Kilda VIC 3182",
+        "summary": "It's been around for many years, had a few facelifts, but we all still love the Palais. There's no limit to what kind of shows they can put on, having seen acts from Eves Karydas to Brian Wilson to comedian/musician Reggie Watts grace the stage in the past. There's too many cool events coming up to list here, check out their gig guide here."
+      },
+      "pariscatjazz": {
+        "name": "Paris Cat",
+        "address": "6 Goldie Pl, Melbourne VIC 3000",
+        "summary": "Iconic Melbourne jazz cauldron Paris Cat is a major player in the live music game and they're not mucking around - featuring music from all different types of talented performers. You can catch the Rachel Ross quintet, The Cope Street Parade, and even a cool tribute show to Frank Sinatra. Check out what else is on here."
+      },
+      "poh3058": {
+        "name": "The Post Office Hotel",
+        "address": "229-231 Sydney Rd, Coburg VIC 3058",
+        "summary": "Sydney Road's The Post Office Hotel is not only a stellar pub for a pint and a meal, it also doubles as a fantastic live music venue. Regularly updating their gig guide via their website, make sure you duck down to The Post Office for a gig coming up."
+      },
+      "retreat_hotel_brunswick": {
+        "name": "The Retreat",
+        "address": "280 Sydney Rd, Brunswick VIC 3056",
+        "summary": "Connoisseurs of the best local talent, everyone from the likes of Floodlights, Bones & Jones, Porpoise Spit, Lewis Coleman and more, have stepped into their beloved bandroom."
+      },
+      "small.time.group": {
+        "name": "Small Time",
+        "address": "271-273 Albert St, Brunswick VIC 3056",
+        "summary": "Small Time is a chameleon of the Melbourne music space wearing the different capes of a music video platform, artist development program, production space and live music venue/pizza bar. Having livestreamed shows throughout the lockdown, Small Time is back with live gigs, initially welcoming names such as Lewis Coleman, Cantrips amd AM Reruns and more since things eased. Upcoming, there's Leslie D King, Bares, and more."
+      },
+      "sookilounge": {
+        "name": "Sooki Lounge",
+        "address": "1648 Burwood Hwy, Belgrave VIC 3160",
+        "summary": "If you live up in the hills and are envious of all the gigs at inner-city venues, Sooki Lounge solves all your problems, putting on some awesome gigs just down the road. They feature a great mix of genres, from talented performers like Bonnie Anderson and Russell Morris to indie rockers like British India and The Delta Riggs."
+      },
+      "staygoldmelbourne": {
+        "name": "Stay Gold",
+        "address": "133 Sydney Rd, Brunswick VIC 3056",
+        "summary": "Fantastic Sydney Road live music venue Stay Gold is back in the swing of live music with a bunch of sweet shows coming up. Their venue celebrates the glorious punk and emo music of the early noughties with many cool music nights, while they've also got shows from Windwaker, Ironstone and Eye of The Enemy to name a few."
+      },
+      "thebendigo": {
+        "name": "The Bendigo Hotel",
+        "address": "125 Johnston St, Collingwood VIC 3066",
+        "summary": "The Bendigo has been a staple of the Melbourne music scene for a number of years, putting on some awesome shows year after year, featuring rock acts from all around the world. Artists on their way to The Bendigo include The Krugers and Stalker."
+      },
+      "thecurtin": {
+        "name": "The Curtin",
+        "address": "29 Lygon St, Carlton VIC 3053",
+        "summary": "It's been in the news a great deal lately, with word that it will likely be closing down. But the John Curtin Hotel is still in business on the live music front to the glee of all Melburnians. They've got some amazing live shows on the horizon, including Hobsons Bay Coast guard, Mylk, Dana Mitchell Revenge Plot, and Sappho. Keep an eye on Beat for any further announcements about The Curtin."
+      },
+      "thejazzlab": {
+        "name": "The Jazzlab",
+        "address": "27 Leslie St, Brunswick VIC 3056",
+        "summary": "The Jazzlab is quickly becoming one of the coolest venues across Melbourne's live scene, putting on some amazing shows from virtuosic acts that live on our doorstep. Coming up at The Jazzlab is Rai Thistlethwayte, Luke Howard Trio, and USA's very own Trio Grande. The Jazzlab is also one of the only live music joints holding a show for the Melbourne International Comedy Festival, called The Marvellous Elephant Man."
+      },
+      "thenightcat_fitzroy": {
+        "name": "The Night Cat",
+        "address": "137-141 Johnston St, Fitzroy VIC 3065",
+        "summary": "The Night Cat give a different vibe to the music-watching experience, the venue featuring a stage that has a 360” view. Now as restrictions have eased even further, the venue has a number of live gigs on the way, featuring everyone from The Beths to Sycco."
+      },
+      "theoldbar": {
+        "name": "The Old Bar",
+        "address": "74-76 Johnston St, Fitzroy VIC 3065",
+        "summary": "If you're after music, music and more music, The Old Bar is the spot for you. There's 7 days a week of live music, and covers a number of different genres, like blues, rock, and Indie. If you want to get your bearings of the venue before you head there, you can play this cool little minigame on their website that gives you a tour of the grounds."
+      },
+      "thetoffintown": {
+        "name": "The Toff in Town",
+        "address": "Melbourne",
+        "summary": "If you want to catch a performer before they become the next big thing, look no further than The Toff in Town. The part cocktail bar - part live music venue has got some cool shows on the horizon, like Sydney Miller, onesevenfour, and Zheani to name a few."
+      },
+      "thetotehotel": {
+        "name": "The Tote",
+        "address": "67-71 Johnston St, Collingwood VIC 3066",
+        "summary": "Melbourne rock kingdom The Tote is back up and firing in the live music space. This spot is dedicated to putting on some hard rocking shows featuring some of Melbourne's coolest new acts. Groups like Fan Haus, Teenage Joans, and many more are on their way to The Tote."
+      },
+      "thewesleyanne": {
+        "name": "Wesley Anne",
+        "address": "250 High St, Northcote VIC 3070",
+        "summary": "The iconic Wesley Anne is not only a revered abode for a tasty meal, they've got live music too and they've well and truly fired up the amps as we embark on 2022. Wurli, Paige Black and Ade Ishs are some of the names you will have caught over the last few years, while the likes of Rayhab, Alex Taylor and Rosario De Marco are to come."
+      },
+      "theworkersclub": {
+        "name": "The Workers Club",
+        "address": "51 Brunswick St, Fitzroy VIC 3065",
+        "summary": "Fitzroy live music haunt The Workers Club are well and truly back to doing what they do best, putting on gigs, gigs, and more gigs, and the tickets are selling like hot cakes. Now that restrictions have eased, you can catch some full capacity shows with Supercab, Proposal, Semantics, and many more that you can check out here."
+      },
+      "thornburytheatre": {
+        "name": "The Thornbury Theatre",
+        "address": "859 High St, Thornbury VIC 3071",
+        "summary": "The Thornbury Theatre are a relatively to the live music world and have already had a handful of awesome gigs that have found a bunch of new fans. They are usually used as a function space for lavish weddings and big parties. There's some great shows coming to the Thornbury in the next few months, this includes Babe Rainbow, Karma County and Casey Donovan."
+      },
+      "unionhotelbrunswick": {
+        "name": "Union Hotel Brunwick",
+        "address": "109 Union St, Brunswick VIC 3056",
+        "summary": "Back street pub in the inner city north suburb of Brunswick. Great food, live music and beer garden."
+      }
+	}
+}
